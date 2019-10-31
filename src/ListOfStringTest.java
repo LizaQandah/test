@@ -2,6 +2,7 @@
 public class ListOfStringTest {
 
     public static void main(String[] args){
+        System.out.println("changed");
 
         ListOfStrings lst = new ListOfStrings();
 
