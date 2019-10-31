@@ -3,7 +3,7 @@ public class ListOfStringTest {
 
     public static void main(String[] args){
         System.out.println("changed");
-
+ System.out.println("hub changed");
         ListOfStrings lst = new ListOfStrings();
 
         lst.add("mohammad");
